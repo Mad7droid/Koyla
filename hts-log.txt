@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Sep 2021 00:29:51 at http://koylakebab.thedesigncircle.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://koylakebab.thedesigncircle.in/ -O1 "D:\madhav - manuscript\Tanvi\Koyla\koyla1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:33:07	Error: 	"Forbidden" (403) at link koylakebab.thedesigncircle.in/img/signature.png (from koylakebab.thedesigncircle.in/)
+00:33:07	Warning: 	Retry after error -4 (Incorrect length (531668 Bytes, 637330 expected)) at link koylakebab.thedesigncircle.in/font/Lato-Medium.eot (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:33:37	Warning: 	Retry after error -4 (Incorrect length (531659 Bytes, 637068 expected)) at link koylakebab.thedesigncircle.in/font/Lato-Medium.ttf (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:33:47	Error: 	"Not Found" (404) at link koylakebab.thedesigncircle.in/font/Lato-Medium.svg (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:33:47	Warning: 	Retry after error -2 (Receive Time Out) at link koylakebab.thedesigncircle.in/font/PlayfairDisplay-Italic-VariableFont_wght.ttf (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:33:55	Warning: 	Retry after error -4 (Connect Error) at link koylakebab.thedesigncircle.in/font/fontello.eot?46579446 (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:34:27	Warning: 	Retry after error -4 (Connect Error) at link koylakebab.thedesigncircle.in/font/fontello.woff2?46579446 (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:35:47	Warning: 	Retry after error -2 (Receive Time Out) at link koylakebab.thedesigncircle.in/font/Lato-Medium.eot (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:35:47	Warning: 	Retry after error -2 (Receive Time Out) at link koylakebab.thedesigncircle.in/font/Lato-Medium.ttf (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:35:47	Warning: 	Retry after error -2 (Receive Time Out) at link koylakebab.thedesigncircle.in/font/PlayfairDisplay-Italic-VariableFont_wght.ttf (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:37:47	Error: 	"Receive Time Out" (-2) after 2 retries at link koylakebab.thedesigncircle.in/font/Lato-Medium.eot (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:37:47	Error: 	"Receive Time Out" (-2) after 2 retries at link koylakebab.thedesigncircle.in/font/Lato-Medium.ttf (from koylakebab.thedesigncircle.in/css/fonts.css)
+00:37:48	Error: 	"Receive Time Out" (-2) after 2 retries at link koylakebab.thedesigncircle.in/font/PlayfairDisplay-Italic-VariableFont_wght.ttf (from koylakebab.thedesigncircle.in/css/fonts.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 57 seconds : 39 links scanned, 26 files written (5126050 bytes overall) [6526790 bytes received at 13682 bytes/sec], 39680 bytes transferred using HTTP compression in 1 files, ratio 32%, 1.3 requests per connection
+(5 errors, 8 warnings, 0 messages)
